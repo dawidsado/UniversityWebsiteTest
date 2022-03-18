@@ -1,5 +1,5 @@
 # CheckingScheduleSelenium
-Using external Selenium library I created algorithm to log into my student account and check schedule for upcoming week.
+Using external Selenium library I created algorithm which is able to log into my student account and check schedule for upcoming week.
 
 
 
