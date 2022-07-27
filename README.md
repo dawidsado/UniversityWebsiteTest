@@ -1,6 +1,6 @@
-# UniveristyWebsiteTest
+# UniveristyWebsiteTest 🧪🔧
 
-## •	ABOUT 👨‍💻🔧
+## •	ABOUT
 Using the basic functions from the external Selenium library and the ability to inspect webpage source code I created an algorithm that is able to log into my student account and check the schedule for the upcoming week.
 
 Code is separated into two methods - one is responsible for logging into the main university website, and the second enables us to go into a subpage where the schedules are located and find a specific one for my group for the upcoming week. 
