@@ -8,9 +8,7 @@ Code is separated into two methods - one is responsible for logging into the mai
 
 ## •	TECHNOLOGY THAT I USED 🚀
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 <br></br>
 
 ## • LET’S TAKE A LOOK AT THE CODE 🧐
