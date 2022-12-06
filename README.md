@@ -37,3 +37,7 @@ Code is separated into two methods - one is responsible for logging into the mai
 - Use of basic functionalities from Selenium testing framework
 
 - How to read webpage source code (with use of the inspect option)
+
+<br></br>
+
+![icon](https://img.shields.io/github/last-commit/dawidsado/UniversityWebsiteTest.svg)
